@@ -21,8 +21,7 @@ Visualizations:
 ![image](https://github.com/user-attachments/assets/88a49e80-6463-45eb-9154-ae064dac8493)
 ![image](https://github.com/user-attachments/assets/ba396bc7-5deb-4b85-b79b-03ee88bbc87d)
 
-
-Total Runs Scored vs Batting Average:
+## Total Runs Scored vs Batting Average:
 ![image](https://github.com/user-attachments/assets/48e4e6df-fe2b-4e84-bd47-d5fb56e73fc0)
 
 
