@@ -1,24 +1,23 @@
-# T20-World-Cup-Analysis
-T20 World Cup Analysis 2024
-Project Overview
+## T20 World Cup Analysis 2024
+### Project Overview
 This project analyzes the Men's T20 World Cup 2024 using data sourced from Kaggle. The analysis involves generating insights by exploring key cricket statistics such as wickets, strike rates, batting averages, and total runs scored across different teams. The aim was to present meaningful visualizations that offer insights into team and player performances.
 
 The data was cleaned and transformed using Excel's Power Query Editor and Python to ensure accurate insights. Various visualization techniques like bar graphs, histograms, and pie charts were used to represent the findings. Additionally, pivot tables were created in Excel for summarizing statistics like batting averages and total runs scored.
 
-Tools and Technologies Used:
-Python: Used for data analysis and visualization.
-Excel: Employed for data cleaning, creating pivot tables, and generating graphs.
-Power Query Editor: For handling missing values and data transformation in Excel.
-Matplotlib & Seaborn: Python libraries for generating visualizations.
-Kaggle: Data source.
-Data Insights:
+### Tools and Technologies Used:
+**Python**: Used for data analysis and visualization.
+**Excel**: Employed for data cleaning, creating pivot tables, and generating graphs.
+**Power Query Editor**: For handling missing values and data transformation in Excel.
+**Matplotlib & Seaborn**: Python libraries for generating visualizations.
+**Kaggle**: Data source.
+### Data Insights:
 The analysis highlights the following:
 
 Teams like India, South Africa, and Australia show strong overall performances based on key statistics like wickets and strike rates.
 Afghanistan and West Indies also have notable contributions, particularly in terms of batting averages and total runs scored.
 Pivot tables in Excel helped break down the data further, giving a clearer view of individual performances across teams.
 Visualizations:
-Team Performance by Wickets, Strike Rate, and Number of Players:
+### Team Performance by Wickets, Strike Rate, and Number of Players:
 
 
 Total Runs Scored vs Batting Average:
