@@ -16,22 +16,23 @@ The analysis highlights the following:
 Teams like India, South Africa, and Australia show strong overall performances based on key statistics like wickets and strike rates.
 Afghanistan and West Indies also have notable contributions, particularly in terms of batting averages and total runs scored.
 Pivot tables in Excel helped break down the data further, giving a clearer view of individual performances across teams.
-Visualizations:
+
+## Visualizations:
 ### Team Performance by Wickets, Strike Rate, and Number of Players:
 ![image](https://github.com/user-attachments/assets/ba396bc7-5deb-4b85-b79b-03ee88bbc87d)
-
 ### Total Runs Scored vs Batting Average:
 ![image](https://github.com/user-attachments/assets/48e4e6df-fe2b-4e84-bd47-d5fb56e73fc0)
-
 ### Summary Table - Percentages of Matches Won:
 ![image](https://github.com/user-attachments/assets/2c7ee550-4d79-4466-a50f-c6b82ba2ddaa)
+### Summary Table - Matches hosted 
+![image](https://github.com/user-attachments/assets/632ca12c-8ebd-4ce8-b6b8-90727a5d77fc)
 
 
 
-Conclusion:
+### Conclusion:
 This analysis provides a comprehensive look into how teams performed in various areas of the T20 World Cup. The visualizations serve as an easy way to identify trends and exceptional performances. Excel and Python were critical in achieving a deeper understanding of the data, while Power Query Editor made handling the data smooth and efficient.
 
-How to Run:
+#### How to Run:
 Clone the repository.
 Install necessary Python libraries: matplotlib, seaborn, pandas.
 Download the dataset from Kaggle (link provided in the repository).
