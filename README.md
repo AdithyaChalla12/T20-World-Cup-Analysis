@@ -29,7 +29,6 @@ Pivot tables in Excel helped break down the data further, giving a clearer view 
 ![image](https://github.com/user-attachments/assets/632ca12c-8ebd-4ce8-b6b8-90727a5d77fc)
 ### Anlayzing Toss to Match Win(%) 
 ![image](https://github.com/user-attachments/assets/a332642c-1db7-4a35-b948-e5d54deecc81)
-
 ### Comparision between two finalist of T20 WorldCup 2024
 ![image](https://github.com/user-attachments/assets/d37b1b3a-cbd4-472b-b245-31d1fd0a404a)
 
