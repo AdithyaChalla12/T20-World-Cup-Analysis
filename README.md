@@ -27,7 +27,7 @@ Pivot tables in Excel helped break down the data further, giving a clearer view 
 ![image](https://github.com/user-attachments/assets/2c7ee550-4d79-4466-a50f-c6b82ba2ddaa)
 ### Summary Table - Matches hosted 
 ![image](https://github.com/user-attachments/assets/632ca12c-8ebd-4ce8-b6b8-90727a5d77fc)
-### Toss vs Win(%) of Super8 Teams
+### Relation between Toss and Match Win(%) 
 ![image](https://github.com/user-attachments/assets/a332642c-1db7-4a35-b948-e5d54deecc81)
 
 
