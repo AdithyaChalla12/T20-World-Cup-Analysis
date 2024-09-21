@@ -5,7 +5,6 @@ This project analyzes the Men's T20 World Cup 2024 using data sourced from Kaggl
 The data was cleaned and transformed using Excel's Power Query Editor and Python to ensure accurate insights. Various visualization techniques like bar graphs, histograms, and pie charts were used to represent the findings. Additionally, pivot tables were created in Excel for summarizing statistics like batting averages and total runs scored.
 
 ### Tools and Technologies Used:
-## Tools and Technologies Used:
 1. **Python**: Used for data analysis and visualization.
 2. **Excel**: Employed for data cleaning, creating pivot tables, and generating graphs.
 3. **Power Query Editor**: For handling missing values and data transformation in Excel.
