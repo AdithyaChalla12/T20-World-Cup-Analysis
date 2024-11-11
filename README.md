@@ -19,6 +19,8 @@ Afghanistan and West Indies also have notable contributions, particularly in ter
 Pivot tables in Excel helped break down the data further, giving a clearer view of individual performances across teams.
 
 ## Visualizations:
+### Dashboard
+![image](https://github.com/user-attachments/assets/ba396bc7-5deb-4b85-b79b-03ee88bbc87d)
 ### Team Performance by Wickets, Strike Rate, and Number of Players:
 ![image](https://github.com/user-attachments/assets/ba396bc7-5deb-4b85-b79b-03ee88bbc87d)
 ### Total Runs Scored vs Batting Average:
