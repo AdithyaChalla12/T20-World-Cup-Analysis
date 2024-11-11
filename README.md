@@ -20,7 +20,7 @@ Pivot tables in Excel helped break down the data further, giving a clearer view 
 
 ## Visualizations:
 ### Dashboard
-![image](https://github.com/user-attachments/assets/ba396bc7-5deb-4b85-b79b-03ee88bbc87d)
+![image](https://github.com/AdithyaChalla12/T20-World-Cup-Analysis/blob/main/DataSet/Screenshot%202024-11-11%20122135.png)
 ### Team Performance by Wickets, Strike Rate, and Number of Players:
 ![image](https://github.com/user-attachments/assets/ba396bc7-5deb-4b85-b79b-03ee88bbc87d)
 ### Total Runs Scored vs Batting Average:
